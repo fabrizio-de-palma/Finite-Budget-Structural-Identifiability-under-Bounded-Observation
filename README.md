@@ -1,7 +1,8 @@
 # Finite-Budget Structural Identifiability under-Bounded Observation
 This repository contains the paper and artifact for:  
 "Finite-Budget Structural Identifiability under Bounded Observation"  
-The official archived version of the paper is available on Zenodo: https://doi.org/10.5281/zenodo.18736348 
+Official archived version on Zenodo:  
+[https://doi.org/10.5281/zenodo.18736348](https://doi.org/10.5281/zenodo.18736348) 
 
 # Abstract
 We study the problem of structural regime identification under finite observational scale and finite computational budget. We consider a stochastic or deterministic process observed through a representation map at a given scale, generating an observable sequence. We introduce the notion of a novelty curve, defined as the number of distinct observations encountered up to a given time, and show that its finite-sample behavior encodes structural information about the underlying regime.
@@ -12,9 +13,10 @@ The analysis reveals a phenomenon of resolution-induced collapse: increasing obs
 
 We provide explicit regime constructions illustrating latency-dominated, estimation-dominated, and separation-dominated domains. A companion software artifact is provided separately and linked via DOI, enabling empirical estimation of the structural quantities introduced in the paper.
 
-# Contents
-paper.pdf
-artifact.zip
+## Contents
+
+- [paper.pdf](paper.pdf)
+- [artifact.zip](artifact.zip)
 
 # Keywords
 finite-budget inference, structural identifiability, observational scale, novelty growth, theoretical machine learning
