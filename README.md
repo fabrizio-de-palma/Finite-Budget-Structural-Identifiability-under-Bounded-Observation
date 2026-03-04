@@ -15,7 +15,7 @@ We provide explicit regime constructions illustrating latency-dominated, estimat
 
 # Contents
 
-- 📄 [Paper](Finite-Budget Structural Identifiability under Bounded Observation_De Palma_2026.pdf)
+- 📄 [Paper](Finite-Budget Structural Identifiability under Bounded Observation_De_Palma_2026.pdf)
 - 🧩 [Artifact](structural_identifiability_artifact.zip)
 
 # Keywords
