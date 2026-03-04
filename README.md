@@ -13,10 +13,10 @@ The analysis reveals a phenomenon of resolution-induced collapse: increasing obs
 
 We provide explicit regime constructions illustrating latency-dominated, estimation-dominated, and separation-dominated domains. A companion software artifact is provided separately and linked via DOI, enabling empirical estimation of the structural quantities introduced in the paper.
 
-## Contents
+# Contents
 
-- [paper.pdf](paper.pdf)
-- [artifact.zip](artifact.zip)
+- 📄 [Paper](Finite-Budget Structural Identifiability under Bounded Observation_De Palma_2026.pdf)
+- 🧩 [Artifact](structural_identifiability_artifact.zip)
 
 # Keywords
 finite-budget inference, structural identifiability, observational scale, novelty growth, theoretical machine learning
